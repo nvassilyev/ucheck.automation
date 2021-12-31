@@ -1,0 +1,1 @@
+py.exe C:\Users\Nikita\git\ucheck.automation\automation.py
